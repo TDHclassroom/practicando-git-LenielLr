@@ -10,7 +10,7 @@ Aprender a resolver conflictos que pueden ocurrir cuando múltiples personas tra
    git checkout -b feature/conflicto-simulado
    ```
 
-2. Modifica el archivo `mi-proyecto.md` añadiendo al final:
+"2. Modifica el archivo `mi-proyecto.md` añadiendo al final:
    ```
    ## Información del proyecto
    Versión desarrollada en rama feature

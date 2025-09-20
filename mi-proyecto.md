@@ -1,5 +1,4 @@
 # Mi Proyecto Git
-
 Este es mi primer proyecto usando Git.
 
 ## Características
@@ -7,3 +6,7 @@ Este es mi primer proyecto usando Git.
 
 ## Última actualización
 Editado desde GitHub web interface
+
+## Información del proyecto
+Versión desarrollada en rama feature
+
